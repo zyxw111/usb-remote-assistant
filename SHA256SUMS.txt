@@ -1,3 +1,6 @@
-b4163f44ae532b0102c7f2963e0032b745ba3f95b54aa8aaab3ea29a21f79f9d  UsbRemoteAssistant-2.0.0-source.zip
 f90ac20a5d4b1b49acbc7788f2a9e218028c825e94a39de2f5d16eec561546a6  UsbRemoteAssistant-2.0.0-Primary.zip
 3480b6ec5ad6b0620a13e79d0d08eae06ee9861c3b3d79cc82a8f3e7cd71f157  UsbRemoteAssistant-2.0.0-Secondary.zip
+b4163f44ae532b0102c7f2963e0032b745ba3f95b54aa8aaab3ea29a21f79f9d  UsbRemoteAssistant-2.0.0-source.zip
+d89dbe9966a5cc170541d35bbc5fbdfc5ef0b6faaad55bbc8c37c7e4a2cba652  UsbRemoteAssistant-2.0.1-Primary.zip
+5e227976a272aac6d91e4fad0e02a90bb3ce5f956c98541bf7afc524034910db  UsbRemoteAssistant-2.0.1-Secondary.zip
+f6ec4b9521adf532889c0f7e23a052f5004e30c752d045d85c002bff31bb7d83  UsbRemoteAssistant-2.0.1-source.zip

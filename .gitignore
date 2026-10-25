@@ -1,0 +1,29 @@
+# Build and test output
+.artifacts/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+
+# Local runtime data and credentials
+settings.json
+settings.json.*
+*.pairing.json
+*.backup
+*.log
+*.partial
+.env
+.env.*
+
+# Third-party applications must not be checked in
+tools/*.exe
+tools/*.dll
+tools/*.sys
+tools/*.msi
+
+# User-created archives and received data
+*.zip
+transfer-tests-*/
+board-tests-*/
